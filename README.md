@@ -1,5 +1,7 @@
 # Healthy Food Detector using NVIDIA Jetson Orin Nano
 
+ VIDEO HERE https://drive.google.com/file/d/16eXiu5r0BD1qAzsIllrN0xWUM_SHFhXH/view?usp=sharing
+
 This project uses machine learning and computer vision to classify food
 as **healthy** or **unhealthy** in real time. A webcam connected to an
 NVIDIA Jetson Orin Nano captures live video, and a Convolutional Neural
