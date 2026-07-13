@@ -1,0 +1,12 @@
+healthy:
+salad
+grilled_salmon
+vegetable_stir_fry
+
+unhealthy:
+pizza
+hamburger
+french_fries
+donuts
+ice_cream
+fried_chicken
